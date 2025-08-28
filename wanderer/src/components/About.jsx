@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="about">
       <div className="about-container">
-        <h1>About Web3 Wanderer</h1>
+        <h1 className="hero-title">About</h1>
         <p>
           Web3 Wanderer is dedicated to exploring the vast landscape of decentralized technologies, 
           blockchain innovations, and the future of the internet. 

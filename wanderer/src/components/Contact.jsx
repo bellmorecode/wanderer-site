@@ -29,7 +29,7 @@ const Contact = () => {
     <div className="contact">
       <div className="contact-container">
         <div className="contact-content">
-          <h1 className="contact-title">Get in Touch</h1>
+          <h3 className="hero-title">Get in Touch</h3>
                     
           <div className="contact-grid">
             <div className="contact-form">

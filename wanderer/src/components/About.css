@@ -104,3 +104,10 @@
     font-size: 1rem;
   }
 }
+
+@media (max-width: 600px) {
+  .about-container {
+    padding: 3em 1em;
+  }
+}
+

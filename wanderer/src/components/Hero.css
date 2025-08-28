@@ -45,7 +45,6 @@
 }
 
 .hero-title {
-  font-size: 4rem;
   font-weight: 800;
   margin: 0 0 1.5rem 0;
   background: linear-gradient(45deg, #667eea, #764ba2, #f093fb);
@@ -54,6 +53,14 @@
   background-clip: text;
   animation: glow 2s ease-in-out infinite alternate;
   font-family: 'Bitcount Prop Single', monospace;
+}
+
+h3.hero-title, h2.hero-title {
+  font-size: 3rem;
+}
+
+h1.hero-title {
+  font-size: 4rem;
 }
 
 .hero-subtitle {
